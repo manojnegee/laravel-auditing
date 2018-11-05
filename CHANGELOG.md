@@ -1,3 +1,17 @@
+## v4.1.4 (2017-10-29)
+### Added
+- Ability to define custom methods to handle events ([#324](https://github.com/owen-it/laravel-auditing/pull/324))
+
+## v4.1.3 (2017-09-17)
+### Added
+- CONTRIBUTING document
+
+### Changed
+- Updated the URL column type from VARCHAR to TEXT in the migration stub
+
+### Fixed
+- Set the default value of the resolver to a FQCN, instead of a Closure ([#290](https://github.com/owen-it/laravel-auditing/issues/290))
+
 ## v4.1.2 (2017-08-03)
 ### Changed
 - [GitHub] Updated issue template
